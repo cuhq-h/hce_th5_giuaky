@@ -1,5 +1,5 @@
 import "./assets/css/main.css";
-import anhlogo from "./assets/images//Ten-truong-do-1000x159.png";
+import anhlogo from "./assets/images//wp1.jpg";
 import { Outlet, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 
@@ -28,13 +28,13 @@ const Layout = () => {
             <div id="topleft">
               <ul class="ul1">
                 <li>
-                  <a href="/#">TRANG CHỦ</a>
+                  <a href="/#">HOME</a>
                 </li>
                 <li>
-                  <a href="/trang1">EGOV</a>
+                  <a href="/trang1">PRODUCTS</a>
                 </li>
                 <li>
-                  <a href="/admin/products">QUẢN TRỊ</a>
+                  <a href="/admin/products">SIGN IN</a>
                 </li>
               </ul>
             </div>
@@ -42,19 +42,19 @@ const Layout = () => {
               <img src={anhlogo} width="548" />
             </div>
             <div id="divtimkiem" style={{ width: "300px" }}>
-              Phần tìm kiếm
+             
             </div>
           </div>
           <div id="menubar" className="menubar">
             <div className="menubar-left">
               <a href="/menu1" className="menu-item">
-                Menu 1
+               
               </a>
               <a href="/menu2" className="menu-item">
-                Menu 2
+                
               </a>
               <a href="/menu3" className="menu-item">
-                Menu 3
+                
               </a>
             </div>
 

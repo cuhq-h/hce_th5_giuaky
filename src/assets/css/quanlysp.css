@@ -63,20 +63,20 @@ h2 {
 }
 
 .btn.green {
-  background-color: #28a745;
+  background-color: #f0d01b;
 }
 .btn.red {
-  background-color: #dc3545;
+  background-color: #3742df;
 }
 .btn.yellow {
-  background-color: #ffc107;
+  background-color: #01cab9;
   color: black;
 }
 .btn.blue {
-  background-color: #007bff;
+  background-color: #b00cc5;
 }
 .btn.gray {
-  background-color: #6c757d;
+  background-color: #e42a2a;
 }
 
 .btn:hover {

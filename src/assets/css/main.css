@@ -44,7 +44,7 @@ body {
 }
 .menu {
   height: 56px;
-  background-color: #b22d30;
+  background-color: #3daeca;
 }
 .logo1 {
   width: 560px;
@@ -52,7 +52,7 @@ body {
 
 /**********************/
 .menubar {
-  background-color: #b22d30;
+  background-color: #3daeca;
   height: 52px;
   display: flex;
   align-items: center;
